@@ -21,5 +21,5 @@
   <img align="center" width="49%" src="./github-habits.svg" />
 </a>
 <a href="https://github.com/pvdrz">
-    <img align="center" width="49%" src="./achievements.svg" />
+    <img align="center" width="49%" src="./notable.svg" />
 </a>
