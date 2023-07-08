@@ -119,7 +119,7 @@ jobs:
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           plugin_followup: yes
           plugin_languages: yes
-          plugin_followup_sections: ["user"]
+          plugin_followup_sections: "user"
 
   repositories:
     runs-on: ubuntu-latest
